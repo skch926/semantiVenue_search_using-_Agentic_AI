@@ -1,0 +1,24 @@
+# Virtual environments
+semantic311/
+semanticenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Vector DB
+chroma_db/
+
+# Spyder project files
+.spyproject/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
